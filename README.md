@@ -1,4 +1,4 @@
-- 👋 Hi, I’m makeshm
+- 👋 Hi, I’m Makesh M
 - 👀 I’m interested in Embedded systems and IoT
 <!-- - 🌱 I’m currently learning ...  --->
 <!-- - 💞️ I’m looking to collaborate on ... --->
